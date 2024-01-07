@@ -1,0 +1,126 @@
+header {
+  background-image: url(../images/banner/banner2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 1515px;
+  height: 750px;
+  justify-content: space-between;
+  align-items: center;
+}
+.banner {
+  padding: 216px 230px 365px 845px;
+  align-items: center;
+  text-align: right;
+}
+.header-title {
+  color: #151414;
+
+  font-size: 65px;
+  font-weight: 700;
+  margin-top: 24px;
+}
+.header-description {
+  color: #444343;
+
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 54px;
+}
+.primary-btn {
+  color: #fff;
+  /* text-align: right; */
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20px;
+  background: #f15b22;
+  margin-bottom: 59px;
+  border: none;
+}
+.content {
+  display: flex;
+  margin: 139px 200px 139px 170px;
+  align-items: center;
+  background-color: #fff;
+}
+.content-list {
+  padding-left: 150px;
+}
+.content-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 24px;
+}
+.content-description,
+.content-ls {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+.content-ls {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+.sec-title {
+  text-align: center;
+}
+.sec {
+  margin: 139px 200px 139px 170px;
+}
+.sec-content {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  margin: 40px 50px;
+}
+.keep {
+  background-image: url("../images/watch.png");
+  width: 1140px;
+  height: 300px;
+  margin: 0px 0px 0px 170px;
+  background-size: cover;
+  border: none;
+  padding: 20px 0px 0px 40px;
+}
+.keep-title {
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.primary-btn2 {
+  color: #f15b22;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 20px;
+  padding: 20px;
+}
+.footer {
+  background-color: #151414;
+  width: 1515px;
+  height: 300px;
+  gap: 50%;
+  /* padding: 0px 120px 0px 120px; */
+ 
+}
+.footer-content {
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+ /* align-items: center; */
+ 
+}
+.btn{
+    width: 225px;
+height: 34px;
+background-color: #15141467;
+}
+.footer-description{
+   text-align: center;
+   
+}
